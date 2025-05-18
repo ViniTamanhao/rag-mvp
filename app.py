@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://greenplatypus.club/query"  # Replace with your actual endpoint
+API_URL = "https://greenplatypus.club/query" 
 
 st.title("🔍 Query with LLM & Retrieved Context")
 
